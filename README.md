@@ -13,9 +13,9 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Get Launching
-[ ] Get Launching #1: Install latest versions of Ruby and Rails
-[ ] Get Launching #2: Generate a new Rails app and set up Git and Github
-[ ] Get Launching #3: Setting up Postgres and Rspec on Rails
+[x] Get Launching #1: Install latest versions of Ruby and Rails
+[x] Get Launching #2: Generate a new Rails app and set up Git and Github
+[x] Get Launching #3: Setting up Postgres and Rspec on Rails
 
 Ruby Snacks
 [ ] Ruby Snack #1:Dev Gems Demo: rspec-rails
