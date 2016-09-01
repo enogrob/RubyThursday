@@ -7,11 +7,15 @@ Solution Integrator Experienced - Certified by Ericsson
 
 ![ebook_cover](images/ruby-thursday.png)
 
-## Table of Contents
+**About This Tutorial**
+
+This Tutorial is a series of `Ruby Snacks` covered in order to learn deeper `Rails` related topics.
+
+<img src="images/screenshot.png" style="width: 600px;"/>
+
+**Table of Contents**
 
 ```
-Table of Contents
-
 Get Launching
 [x] Get Launching #1: Install latest versions of Ruby and Rails
 [x] Get Launching #2: Generate a new Rails app and set up Git and Github
