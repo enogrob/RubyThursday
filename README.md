@@ -22,7 +22,9 @@ Get Launching
 [x] Get Launching #3: Setting up Postgres and Rspec on Rails
 
 Ruby Snacks
-[x] Ruby Snack #1:Dev Gems Demo: rspec-rails
-[ ] Ruby Snack #2: Dev Gems Demo cabybara-webkit
+[x] Ruby Snack  #1:Dev Gems Demo: rspec-rails
+[x] Ruby Snack  #2: Dev Gems Demo cabybara-webkit
+:
+[x] Ruby Snack #50: Installing Vagrant
 :
 ```
