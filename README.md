@@ -24,6 +24,7 @@ Get Launching
 Ruby Snacks
 [x] Ruby Snack  #1:Dev Gems Demo: rspec-rails
 [x] Ruby Snack  #2: Dev Gems Demo cabybara-webkit
+[~] Ruby Snack #03: Testing Devise with factory_girl_rails and ffaker
 :
 [x] Ruby Snack #50: Installing Vagrant
 :
