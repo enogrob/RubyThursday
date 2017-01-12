@@ -22,9 +22,10 @@ Get Launching
 [x] Get Launching #3: Setting up Postgres and Rspec on Rails
 
 Ruby Snacks
-[x] Ruby Snack  #1:Dev Gems Demo: rspec-rails
-[x] Ruby Snack  #2: Dev Gems Demo cabybara-webkit
-[x] Ruby Snack #3: Testing Devise with factory_girl_rails and ffaker
+[x] RubySnack #1:Dev Gems Demo: rspec-rails
+[x] RubySnack #2: Dev Gems Demo cabybara-webkit
+[x] RubySnack #3: Testing Devise with factory_girl_rails and ffaker
+[x] RubySnack #4: Testing an Admin Feature with simple_bdd
 :
 [x] Ruby Snack #50: Installing Vagrant
 :
