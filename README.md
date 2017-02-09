@@ -22,11 +22,12 @@ Get Launching
 [x] Get Launching #3: Setting up Postgres and Rspec on Rails
 
 Ruby Snacks
-[x] RubySnack #1:Dev Gems Demo: rspec-rails
-[x] RubySnack #2: Dev Gems Demo cabybara-webkit
-[x] RubySnack #3: Testing Devise with factory_girl_rails and ffaker
-[x] RubySnack #4: Testing an Admin Feature with simple_bdd
+[x] RubySnack #01:Dev Gems Demo: rspec-rails
+[x] RubySnack #02: Dev Gems Demo cabybara-webkit
+[x] RubySnack #03: Testing Devise with factory_girl_rails and ffaker
+[x] RubySnack #04: Testing an Admin Feature with simple_bdd
+[~] RubySnack #05: Nested Forms (OBS:: with error, still analysing)
 :
-[x] Ruby Snack #50: Installing Vagrant
+[x] RubySnack #50: Installing Vagrant
 :
 ```
