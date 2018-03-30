@@ -3,7 +3,7 @@ Roberto Nogueira  BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
 
-# RubyThursday
+# Project Ruby Thursday
 
 ![ebook_cover](images/ruby-thursday.png)
 
@@ -15,29 +15,32 @@ This Tutorial is a series of `Ruby Snacks` covered in order to learn deeper `Rai
 
 **Table of Contents**
 
+[Videos](https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A/videos)
+
 __Get Launching__
 
-* [x] [Get Launching #1: Install latest versions of Ruby and Rails]().
-* [x] [Get Launching #2: Generate a new Rails app and set up Git and Github]().
-* [x] [Get Launching #3: Setting up Postgres and Rspec on Rails]().
+* [x] [Get Launching #1: Install latest versions of Ruby and Rails](https://www.youtube.com/watch?v=Bw9jfBUQTkc).
+* [x] [Get Launching #2: Generate a new Rails app and set up Git and Github](https://www.youtube.com/watch?v=0n7qK75Acl8).
+* [x] [Get Launching #3: Setting up Postgres and Rspec on Rails](https://www.youtube.com/watch?v=yOdLXYJHhV8).
 
 ---
 
 __Ruby Snacks__
 
-* [x] [RubySnack #01:Dev Gems Demo: rspec-rails]().
-* [x] [RubySnack #02: Dev Gems Demo cabybara-webkit]().
-* [x] [RubySnack #03: Testing Devise with factory_girl_rails and ffaker().
-* [x] [RubySnack #04: Testing an Admin Feature with simple_bdd]().
-* [~] [RubySnack #05: Nested Forms (OBS:: with error, still analysing)]().
+* [x] [Ruby Snack #01: Dev Gems Demo: rspec-rails](https://www.youtube.com/watch?v=fks3yHRYIJs).
+* [x] [Ruby Snack #02: Dev Gems Demo cabybara-webkit](https://www.youtube.com/watch?v=0T8bG4Cw60o).
+* [x] [Ruby Snack #03: Testing Devise with factory_girl_rails and faker](https://www.youtube.com/watch?v=zS5opOeWFhA).
+* [x] [Ruby Snack #04: Testing an Admin Feature with simple_bdd](https://www.youtube.com/watch?v=fWWm7F8GXrg).
+* [ ] [Ruby Snack #05: Nested Forms analysing)](https://www.youtube.com/watch?v=jc4oJY_voHE).
+* [ ] [Ruby Snack 07: Shoulda Matchers](https://www.youtube.com/watch?v=27NzLFtosXc)
+
+---
+* [ ] [Ruby Snack #45: Delete Multiple Child Objects With Checkboxes](https://youtu.be/gh4Hr-dsRuY)
+* [x] [Ruby Snack #50: Installing Vagrant](https://www.youtube.com/watch?v=h51_asAs_Zk).
 
 ---
 
-* [x] [RubySnack #50: Installing Vagrant]().
-
----
-
-* [x] [Ruby Snack #59: Intro to Docker](https://rubythursday.com/episodes/ruby-snack-59-intro-to-docker).
-* [ ] [Ruby Snack #60: Create New Rails App With Docker](https://rubythursday.com/episodes/create_new_rails_app_with_docker).
-* [ ] [Ruby Snack #61: Rails Development Flow With Docker](https://rubythursday.com/episodes/ruby_snack_61_rails_development_flow_with_docker).
-* [ ] [Ruby Snack # 62: Add Additional Dependencies to Docker](https://rubythursday.com/episodes/ruby-snack-62-add-additional-dependencies-to-docker).
+* [x] [Ruby Snack #59: Intro to Docker](https://www.youtube.com/watch?v=bRJHdSy-_yg&t=49s).
+* [x] [Ruby Snack #60: Create New Rails App With Docker](https://www.youtube.com/watch?v=KH6pcHb6Wug).
+* [x] [Ruby Snack #61: Rails Development Flow With Docker](https://www.youtube.com/watch?v=M5YS5_sSwGk&t=8s).
+* [x] [Ruby Snack #62: Add Additional Dependencies to Docker](https://www.youtube.com/watch?v=vmjz_I9gAM0).
