@@ -35,7 +35,8 @@ __Ruby Snacks__
 * [ ] [Ruby Snack 07: Shoulda Matchers](https://www.youtube.com/watch?v=27NzLFtosXc)
 
 ---
-* [ ] [Ruby Snack #45: Delete Multiple Child Objects With Checkboxes](https://youtu.be/gh4Hr-dsRuY)
+* [x] [Ruby Snack #45: Delete Multiple Child Objects With Checkboxes](https://youtu.be/gh4Hr-dsRuY)
+* [x] [Ruby Snack #48: Step, Next, and Continue with pry-nav or pry-byebug](https://www.youtube.com/watch?v=C_YMdNwv2fA)
 * [x] [Ruby Snack #50: Installing Vagrant](https://www.youtube.com/watch?v=h51_asAs_Zk).
 
 ---
